@@ -7,4 +7,4 @@ Useful stuff for Competitive Programming
 
 3.Templates for functions
 
-4.Sorting algo
+4.Sorting algorithms
