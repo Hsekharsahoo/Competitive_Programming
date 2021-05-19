@@ -6,3 +6,5 @@ Useful stuff for Competitive Programming
 2.Build system for windows os
 
 3.Templates for functions
+
+4.Sorting algo
