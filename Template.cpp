@@ -13,7 +13,7 @@ using namespace std;
 #define ff   first
 #define ss   second
 #define vi   vector<int>
-#define pi   pair<int,int>
+#define pii   pair<int,int>
 #define mp   make_pair
 #define pb   push_back
 #define ppb  pop_back
