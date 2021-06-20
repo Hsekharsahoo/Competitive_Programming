@@ -1,6 +1,6 @@
 /*
 ------------------------
-Author:  hsekharsahoo
+Author : hsekharsahoo
 Started: [10/04/2021]
 
 " THINK MORE, CODE LESS "
@@ -13,7 +13,7 @@ using namespace std;
 #define ff   first
 #define ss   second
 #define vi   vector<int>
-#define pii   pair<int,int>
+#define pii  pair<int,int>
 #define mp   make_pair
 #define pb   push_back
 #define ppb  pop_back
@@ -54,12 +54,3 @@ int main()
   solve();
  }
 }
-/* Things to look for
-  * int overflow, array bounds,inputs
-  * dont spend more than 30mins on A/B even while practicing
-  * special cases (n==1?)
-  * do write return when required
-  * do smth instead of nothing and be organized
-  * WRITE STUFF DOWN
-  * DON'T GET STUCK ON ONE APPROACH
-*/
