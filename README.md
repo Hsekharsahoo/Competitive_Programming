@@ -3,7 +3,7 @@ Useful stuff for Competitive Programming
 
 1.Build system for linux
 
-2.Build system for windows os
+2.Build system for windows
 
 3.Templates for functions
 
